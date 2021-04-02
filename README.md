@@ -1,7 +1,7 @@
 # HR-Analysis-Data-Archive-Activity-
 Assignment for DATA1282 Data Archive Activity
 
-The problem determines the number of salespeople employed with or without attrition, and their average, minimum and maximum monthly income. It also counts the number of salespeople with and without attrition within various monthly income levels. 
+The problem determines the number of salespeople with or without attrition, and their average, minimum and maximum monthly income. It also counts the number of salespeople with and without attrition within various monthly income levels. 
 
 The insights provided that just over 3/4's of the salespeople are without attrition and while some make a higher monthly income, overall the monthly income distribution is similiar to salespeople with attrition. Most salespeople fall in the $5000/month income range.
 
